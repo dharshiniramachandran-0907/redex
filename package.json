@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix react run dev"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.13.0",
+    "react-redux": "^9.3.0"
+  }
+}
